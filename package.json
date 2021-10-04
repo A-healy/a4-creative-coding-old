@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "tone": "^14.7.77"
   },
   "scripts": {
     "start": "node server.js"
@@ -10,7 +11,6 @@
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/A-healy/a4-creative-coding.git"
