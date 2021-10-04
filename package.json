@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a4-creative-coding",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-healy/a4-creative-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-healy/a4-creative-coding/issues"
+  },
+  "homepage": "https://github.com/A-healy/a4-creative-coding#readme"
+}
