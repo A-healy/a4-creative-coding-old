@@ -1,7 +1,6 @@
 const express = require('express'),
       app = express(),
       cors = require('cors'),
-      // Tone = require( 'tone' ),
       port = 3000
 
 app.use( cors() )
