@@ -1,24 +1,25 @@
 {
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "tone": "^14.7.77"
-  },
+  "name": "virtual-synthesizer-keyboard",
+  "version": "1.0.0",
+  "description": "A simple synthesizer with keyboard controls.",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "name": "a4-creative-coding",
-  "description": "",
-  "version": "1.0.0",
-  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.18.0"
+  },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/A-healy/a4-creative-coding.git"
+    "url": "https://glitch.com/edit/#!/a4-alan-healy"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/A-healy/a4-creative-coding/issues"
-  },
-  "homepage": "https://github.com/A-healy/a4-creative-coding#readme"
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "synthesizer"
+  ]
 }
